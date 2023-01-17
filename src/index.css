@@ -1,0 +1,220 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.content {
+  height: 90vh;
+  margin: 0;
+  background-color: rgb(226, 217, 217);
+
+}
+
+.navbar {
+  background-color: rgba(67, 160, 126, 0.549);
+
+  height: 4rem;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.register-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+.nav-link {
+  margin-right: 0.3rem;
+  color: white;
+  background-color: rgba(67, 160, 126, 0.549);
+  
+}
+
+.text-center {
+  color: white;
+}
+
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.8rem 0.8rem;
+
+}
+
+.switch-icon {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  
+
+  
+
+}
+.addnew{
+  
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-right: 0.2rem;
+  padding: 10px;
+  font-size: large;
+
+  
+}
+
+.anticon svg {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.active-icon {
+  color: green;
+}
+
+.inactive-icon {
+  color: gray;
+}
+
+.register-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgb(218, 212, 206);
+
+}
+.logFormHead{
+  margin-bottom: 2rem;
+}
+
+
+ 
+
+
+
+
+
+.loginform {
+
+  padding: 1rem;
+  width: 40%;
+  height: 60%;
+  background-color: rgb(190, 197, 188);
+  border: 2px solid black;
+  overflow: none;
+  border-radius: 0.2rem;
+ 
+
+}
+
+.registerform {
+  padding: 1rem;
+  width: 40%;
+  height: 75%;
+  background-color: rgb(190, 197, 188);
+  border: 2px solid black;
+  overflow: none;
+  border-radius: 0.2rem;
+}
+
+
+
+
+
+.avtar {
+  background-color: black;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  
+  margin-left: 0.2rem;
+  color: black;
+  font-weight: 700;
+
+
+}
+
+
+/* filter */
+.filters {
+  margin: 1px;
+  padding: 3px;
+  height: 4.2rem;
+  border: 2px solid rgba(85, 136, 117, 0.397);
+  border-radius: 5px;
+
+
+}
+
+.avtar,
+.nav-link,
+.logout {
+  margin-top: 0.9rem;
+}
+
+.totaltrans {
+  width: 20rem;
+  margin: 0 1rem 0 -1.5rem;
+  height: auto;
+}
+
+
+
+
+
+.cat .ant-progress-line {
+  width: 30px;
+  height: 50px;
+}
+
+.catcard {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: auto;
+
+}
+
+.catcard1 {
+  width: auto;
+  margin: 0 0.8rem 0.7rem 0;
+}
+
+.lightgray-row {
+  background-color: rgb(226, 217, 217);
+}
+
+.red-header .ant-table-thead th {
+  background-color: rgba(104, 139, 126, 0.397);
+  font-size: 1rem;
+}
+.red-header{
+  color:white
+}
+  
+
+
+
+.ana {
+  background-color: rgb(60, 0, 128);
+
+}
+
+.main {
+  margin:0;
+  width: 100%;
+  display: flex;
+}
+
+.tableData{
+  font-size: 1rem;
+}
+
+
+
+
+
